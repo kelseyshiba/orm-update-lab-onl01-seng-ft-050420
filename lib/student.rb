@@ -48,7 +48,7 @@ class Student
     new_student
   end
   
-  def self.new_from_db(array)
+  def self.new_from_db(array) [1, Kelsey, 10]
   
   end
 
