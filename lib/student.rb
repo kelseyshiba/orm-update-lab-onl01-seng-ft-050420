@@ -55,4 +55,7 @@ class Student
     self.new(array[0], array[1], array[2])
   end
 
+  def self.find_by_name(name)
+  
+  end
 end
