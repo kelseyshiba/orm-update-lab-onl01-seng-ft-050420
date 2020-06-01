@@ -49,7 +49,7 @@ class Student
   end
   
   def self.new_from_db(array) [1, Kelsey, 10]
-  
+    
   end
 
 end
