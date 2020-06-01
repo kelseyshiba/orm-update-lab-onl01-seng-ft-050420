@@ -52,7 +52,7 @@ class Student
     self.id = array[0]
     self.name = array[1]
     self.grade = array[2]
-    
+    self.new()
   end
 
 end
